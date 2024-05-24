@@ -1,5 +1,7 @@
 [TenantScreens.pdf](https://github.com/sinariyahi/TenantManagement/files/15435139/TenantScreens.pdf)
 
+![tefe](https://github.com/sinariyahi/TenantManagement/assets/83516373/3b4d82ff-8fff-4625-8749-c9c76ddd4916)
+![Tenants](https://github.com/sinariyahi/TenantManagement/assets/83516373/b4ad201d-a9ab-4266-a8ff-fcefe61711d1)
 
 REST API design with ASP.NET Core WebAPI🥇
 ========================================
